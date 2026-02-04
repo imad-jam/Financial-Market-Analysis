@@ -1,0 +1,12 @@
+## Crypto Market Analysis
+
+This project analyzes crypto price data using Python.
+Focus:
+- Trend channels
+- RSI indicator
+- Price behavior
+
+Tools:
+- Python
+- Pandas
+- Matplotlib
